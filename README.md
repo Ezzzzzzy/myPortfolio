@@ -1,4 +1,5 @@
-# portfolio
+# Portfolio
+This will be my portfolio and also a practice to using Vue, Router and Vuex
 
 ## Project setup
 ```
